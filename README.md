@@ -107,8 +107,8 @@ selenium==4.2.0
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/aydinnyunus/WhatsappBOT.git
-   cd WhatsappBOT
+   git clone https://github.com/Nigiddy/WhatsappBot
+   cd WhatsappBoT
    ```
 
 2. **Create Virtual Environment**
@@ -322,11 +322,8 @@ This project is open source. Please check the repository for specific licensing 
 
 ## 👨‍💻 Author
 
-**Yunus Aydın**
-- [LinkedIn](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/)
-- [GitHub](https://github.com/aydinnyunus/WhatsappBOT)
-- [Instagram](https://instagram.com/aydinyunus_/)
-- [Twitter](https://twitter.com/aydinnyunuss)
+**Nigiddy**
+
 
 ---
 
